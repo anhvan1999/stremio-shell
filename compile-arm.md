@@ -22,5 +22,4 @@ cmake --build .
 sh ./mac/finalize.sh
 
 sh ./mac/pack.sh
-
 ```
